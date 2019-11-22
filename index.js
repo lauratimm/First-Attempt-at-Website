@@ -25,13 +25,14 @@ var guestbookListener = null;
 
 // Add Firebase project configuration object here
 var firebaseConfig = {
-  apiKey: "random-unique-string",
-  authDomain: "your-projectId.firebaseapp.com",
-  databaseURL: "https://your-projectId.firebaseio.com",
-  projectId: "your-projectId",
-  storageBucket: "your-projectId.appspot.com",
-  messagingSenderId: "random-unique-string",
-  appId: "random-unique-string",
+  apiKey: "AIzaSyBzTVVagNyw18_zPVnSioR1W3vfZfiSVkM",
+  authDomain: "calgary-dinos-66d9e.firebaseapp.com",
+  databaseURL: "https://calgary-dinos-66d9e.firebaseio.com",
+  projectId: "calgary-dinos-66d9e",
+  storageBucket: "calgary-dinos-66d9e.appspot.com",
+  messagingSenderId: "15608135127",
+  appId: "1:15608135127:web:dd97f62f5a38027ed01f92",
+  measurementId: "G-YPYFVTS08F"
 };
 
 // Initialize Firebase
